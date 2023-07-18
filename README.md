@@ -1,9 +1,9 @@
-👋 Oi, eu sou Charlesson,
+👋 Olá, eu sou Charlesson,
 Sejam muito bem vindos
 
 
 - Atualmente estou a procura de uma chance nesse mundo que é a programação.
-- Estou cursando Análise e Desenvolvimento de Sistemas.
+- Recentemente me formei em Análise e Desenvolvimento de Sistemas.
 - Também estou fazendo alguns cursos para aprimorar meu conhecimento.
 
 <div align="center">
