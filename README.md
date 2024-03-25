@@ -2,9 +2,9 @@
 Sejam muito bem vindos
 
 
-- Atualmente estou a procura de uma chance nesse mundo que é a programação.
-- Recentemente me formei em Análise e Desenvolvimento de Sistemas.
-- Também estou fazendo alguns cursos para aprimorar meu conhecimento.
+- Atualmente trabalho como Freelancer na internet
+- Tenho conhecimento em Angular, Java, JavaScript, HTML, CSS, SQL Server
+- Estou criando um portfolio com todas as minhas Skills, meus cursos e em breve colocarei no ar.
 
 <div align="center">
   <a href="https://github.com/charlesssantos">
